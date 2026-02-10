@@ -4,7 +4,7 @@ import { CheckCircle, XCircle, Users, Calendar, MapPin, Smartphone, ShieldCheck,
 // --- CONFIGURACIÓN TEATRO ---
 const TOTAL_CAPACITY = 50;
 const EVENT_DATE = "Sábado 21 de Octubre, 21:00 HS";
-const EVENT_LOCATION = "Teatro Gran Rex - Av. Corrientes 857";
+const EVENT_LOCATION = "Teatro nini - Av. San Martin 857";
 const PLAY_NAME = "El Fantasma de la Ópera";
 
 // --- VISTAS (COMPONENTES EXTERNOS PARA EVITAR ERRORES DE FOCO) ---
